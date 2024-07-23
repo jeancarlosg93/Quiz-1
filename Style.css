@@ -1,0 +1,38 @@
+h1{
+    margin-top: 1em ;
+    margin-bottom: 0.5em ;
+}
+body {
+    background-color: #3baea0;
+    color: #fff;
+    text-align: center;
+}
+
+.custom-btn {
+    background-color:#31b6a9;
+    color: #004042;
+}
+
+.custom-btn:hover {
+    background-color:#004042;
+    color: #ffffff;
+}
+
+.form-container {
+    background-color: #1e7d74;
+    padding: 20px;
+    border-width: 1px;
+    margin-top: 50px;
+    
+}
+.form-group label {
+    color: #fff;
+}
+.btn-update {
+    background-color: #00adb5;
+    color: #fff;
+}
+.btn-update:hover {
+    background-color: #007b7f;
+    color: #fff;
+}
